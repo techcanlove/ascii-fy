@@ -3,6 +3,5 @@ credit https://github.com/RameshAditya/asciify
 2. add <br> tag for web use.
 3. code simplify.
 
-usage:
-open cmd:
+- usage
 python asciify.py [image path] [resolution] [web (optional)]
